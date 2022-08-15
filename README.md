@@ -6,7 +6,7 @@
 - *testing_client.py* is not official testing client
     - it was made by myself to secure the authentization proces works
     - checks only first part of the program
-- program navigates robot to cordinates [0,0]
+- program navigates robot to cordinates [0,0] and must be able to handle multiple threads
 - robot might hit into obstacle and needs to go around the most efficient way
 ### Usage
 - simply run server first and then try to log in with client
